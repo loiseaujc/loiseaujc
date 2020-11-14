@@ -8,7 +8,7 @@ WORK IN PROGRESS
 
 **Keywords :** Scientific computing, Scientific Machine Learning, Dynamical systems, Fluid dynamics, Transition to turbulence.
 
-##### Relevent publications
+#### Relevent publications
 
 - [Data-driven modeling of the chaotic thermal convection in an annular thermosyphon](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s00162-020-00536-w&casa_token=dGT87vyH60wAAAAA:tzhiDXOkQ6vFGNtbV6JkWDtZuHZY2Gkf__g4CfD6TTsPcuVVJgDeQobzphONQxjh7g4IQ9SM2jvz8K49OvA)
 - [Sparse reduced-order modeling : sensor-based dynamics to full-state estimation](https://arxiv.org/abs/1706.03531)
