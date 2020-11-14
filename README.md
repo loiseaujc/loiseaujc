@@ -8,12 +8,16 @@
 <br/>
 
 ### Latest blog posts:
-<!-- BLOG-POST-LIST:START -->
+
+#### New series on simple disease modeling
 - [Disease modeling in the midst of a pandemic](https://loiseau-jc.medium.com/disease-modeling-in-the-midst-of-a-pandemic-14e06f3cd63e)
+
+#### Basics of statistics and machine learning
 - [Binary cross-entropy and logistic regression](https://towardsdatascience.com/binary-cross-entropy-and-logistic-regression-bf7098e75559)
+
+#### History of deep learning
 - [Improving upon Rosenblatt's perceptron](https://towardsdatascience.com/improving-upon-rosenblatts-perceptron-d0517d3c5939)
 - [Rosenblatt's perceptron, the first modern neural network](https://towardsdatascience.com/rosenblatts-perceptron-the-very-first-neural-network-37a3ec09038a)
-<!-- BLOG-POST-LIST:END -->
 
 <br/>
 
