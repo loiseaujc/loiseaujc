@@ -2,8 +2,6 @@
 
 WORK IN PROGRESS
 
-<br/>
-
 ### Research interests
 
 **Keywords :** Scientific computing, Scientific Machine Learning, Dynamical systems, Fluid dynamics, Transition to turbulence.
@@ -13,8 +11,6 @@ WORK IN PROGRESS
 - [Data-driven modeling of the chaotic thermal convection in an annular thermosyphon](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s00162-020-00536-w&casa_token=dGT87vyH60wAAAAA:tzhiDXOkQ6vFGNtbV6JkWDtZuHZY2Gkf__g4CfD6TTsPcuVVJgDeQobzphONQxjh7g4IQ9SM2jvz8K49OvA)
 - [Sparse reduced-order modeling : sensor-based dynamics to full-state estimation](https://arxiv.org/abs/1706.03531)
 - [Constrained sparse Galerkin regression](https://arxiv.org/abs/1611.03271)
-
-<br/>
 
 ### Latest blog posts:
 
@@ -35,8 +31,6 @@ Its aim is primarily to show how we slowly move the simple model of an artificia
 
 - [Rosenblatt's perceptron, the first modern neural network](https://towardsdatascience.com/rosenblatts-perceptron-the-very-first-neural-network-37a3ec09038a)
 - [Improving upon Rosenblatt's perceptron](https://towardsdatascience.com/improving-upon-rosenblatts-perceptron-d0517d3c5939)
-
-<br/>
 
 ---
 
