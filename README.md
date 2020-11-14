@@ -18,12 +18,14 @@ I decided to write an entire Medium series about it.
 - [Disease modeling in the midst of a pandemic](https://loiseau-jc.medium.com/disease-modeling-in-the-midst-of-a-pandemic-14e06f3cd63e)
 
 **Basics of statistics and machine learning :** This series covers some basic aspects of statistics and machine learning.
-It is adapted from lecture notes I prepared which eventually did not take place 😞.
+It is adapted from lecture notes I prepared for a course which eventually did not take place 😞.
 All the posts come with some simple implementation in `python` for readers to play with.
 
 - [Binary cross-entropy and logistic regression](https://towardsdatascience.com/binary-cross-entropy-and-logistic-regression-bf7098e75559)
 
-#### History of deep learning
+**History of deep learning :** This series deals with the infancy of neural networks and deep learning.
+Its aim is primarily to show how we slowly move the simple model of an artificial neuron all the way to recent deep neural networks.
+
 - [Improving upon Rosenblatt's perceptron](https://towardsdatascience.com/improving-upon-rosenblatts-perceptron-d0517d3c5939)
 - [Rosenblatt's perceptron, the first modern neural network](https://towardsdatascience.com/rosenblatts-perceptron-the-very-first-neural-network-37a3ec09038a)
 
