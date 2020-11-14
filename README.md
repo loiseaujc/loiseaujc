@@ -20,11 +20,11 @@
 <br/>
 
 <p align="center">
-    <a href="https://fr.linkedin.com/in/jean-christophe-loiseau-05832727/"><img alt="Jean-Christophe Loiseau | LinkedIn" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
-    <a href="https://twitter.com/loiseau_jc/"><img alt="loiseau_jc | Twitter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>
-    <a href="https://github.com/loiseaujc/"><img alt="loiseaujc | GitHub" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"></a>
-    <a href="https://www.researchgate.net/profile/Jean_Christophe_Loiseau/"><img alt="Jean-Christophe Loiseau | ResearchGate" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/researchgate.svg"></a>
-    <a href="https://loiseau-jc.medium.com/"><img alt="Jean-Christophe Loiseau | Medium" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/medium.svg"></a>
+    <a href="https://fr.linkedin.com/in/jean-christophe-loiseau-05832727/"><img alt="Jean-Christophe Loiseau | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
+    <a href="https://twitter.com/loiseau_jc/"><img alt="loiseau_jc | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>
+    <a href="https://github.com/loiseaujc/"><img alt="loiseaujc | GitHub" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"></a>
+    <a href="https://www.researchgate.net/profile/Jean_Christophe_Loiseau/"><img alt="Jean-Christophe Loiseau | ResearchGate" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/researchgate.svg"></a>
+    <a href="https://loiseau-jc.medium.com/"><img alt="Jean-Christophe Loiseau | Medium" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/medium.svg"></a>
 <p/>
 
 <!--
