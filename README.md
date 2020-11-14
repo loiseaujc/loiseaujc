@@ -1,5 +1,7 @@
 ### Hi there, I'm Jean-Christophe 👋
 
+WORK IN PROGRESS
+
 <br/>
 
 ### Research interests
@@ -11,7 +13,7 @@
 
 **New series on simple disease modeling :** France entered its second coronavirus lock-down late October 2020.
 Numerous of my students asked me how simple mathematical models could help them get a better undertanding of the current mess.
-I decided to write an entier Medium series about it.
+I decided to write an entire Medium series about it.
 
 - [Disease modeling in the midst of a pandemic](https://loiseau-jc.medium.com/disease-modeling-in-the-midst-of-a-pandemic-14e06f3cd63e)
 
