@@ -17,7 +17,10 @@ I decided to write an entire Medium series about it.
 
 - [Disease modeling in the midst of a pandemic](https://loiseau-jc.medium.com/disease-modeling-in-the-midst-of-a-pandemic-14e06f3cd63e)
 
-#### Basics of statistics and machine learning
+**Basics of statistics and machine learning :** This series covers some basic aspects of statistics and machine learning.
+It is adapted from lecture notes I prepared which eventually did not take place 😞.
+All the posts come with some simple implementation in `python` for readers to play with.
+
 - [Binary cross-entropy and logistic regression](https://towardsdatascience.com/binary-cross-entropy-and-logistic-regression-bf7098e75559)
 
 #### History of deep learning
