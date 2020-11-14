@@ -20,13 +20,11 @@
 <br/>
 <br/>
 
-<p align="center">
-[<img alt="Jean-Christophe Loiseau | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img alt="loiseau_jc | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img alt="loiseaujc | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img alt="Jean-Christophe Loiseau | ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/researchgate.svg" />][researchgate]
-[<img alt="Jean-Christophe Loiseau | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/medium.svg" />][medium]
-</p>
+[<img align="center" alt="Jean-Christophe Loiseau | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="loiseau_jc | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="center" alt="loiseaujc | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="center" alt="Jean-Christophe Loiseau | ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/researchgate.svg" />][researchgate]
+[<img align="center" alt="Jean-Christophe Loiseau | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/medium.svg" />][medium]
 
 [github]: https://github.com/loiseaujc/
 [twitter]: https://twitter.com/loiseau_jc/
