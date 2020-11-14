@@ -18,20 +18,19 @@
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
-<br/>
 
-[<img align="center" alt="Jean-Christophe Loiseau | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="loiseau_jc | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="center" alt="loiseaujc | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="center" alt="Jean-Christophe Loiseau | ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/researchgate.svg" />][researchgate]
-[<img align="center" alt="Jean-Christophe Loiseau | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/medium.svg" />][medium]
+<p align="center">
 
-[github]: https://github.com/loiseaujc/
-[twitter]: https://twitter.com/loiseau_jc/
-[researchgate]: https://www.researchgate.net/profile/Jean_Christophe_Loiseau/
-[linkedin]: https://fr.linkedin.com/in/jean-christophe-loiseau-05832727/
-[medium]: https://loiseau-jc.medium.com/
+<a href="https://fr.linkedin.com/in/jean-christophe-loiseau-05832727/"><img alt="Jean-Christophe Loiseau | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" ></a>
 
+<a href="https://twitter.com/loiseau_jc/"><img alt="loiseau_jc | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" ></a>
+    
+<a href="https://github.com/loiseaujc/"><img alt="loiseaujc | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" ></a>
+    
+<a href="https://www.researchgate.net/profile/Jean_Christophe_Loiseau/"><img align="center" alt="Jean-Christophe Loiseau | ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/researchgate.svg" ></a>
+    
+<a href="https://loiseau-jc.medium.com/"><img align="center" alt="Jean-Christophe Loiseau | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/medium.svg" ></a>
+<p/>
 
 <!--
 **loiseaujc/loiseaujc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
