@@ -1,12 +1,10 @@
 ### Hi there, I'm Jean-Christophe 👋
 
-### Connect with me
+<br/>
+<br/>
 
-[<img align="left" alt="Jean-Christophe Loiseau | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="loiseaujc | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="loiseaujc | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Jean-Christophe Loiseau | ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/researchgate.svg" />][researchgate]
-[<img align="left" alt="Jean-Christophe Loiseau | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/medium.svg" />][medium]
+### Research interests
+
 
 <br/>
 <br/>
@@ -19,6 +17,16 @@
 - [Rosenblatt's perceptron, the first modern neural network](https://towardsdatascience.com/rosenblatts-perceptron-the-very-first-neural-network-37a3ec09038a)
 <!-- BLOG-POST-LIST:END -->
 
+<br/>
+<br/>
+
+<center>
+[<img align="left" alt="Jean-Christophe Loiseau | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="loiseaujc | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="loiseaujc | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Jean-Christophe Loiseau | ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/researchgate.svg" />][researchgate]
+[<img align="left" alt="Jean-Christophe Loiseau | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/medium.svg" />][medium]
+<center/>
 
 [github]: https://github.com/loiseaujc/
 [twitter]: https://twitter.com/loiseau_jc/
