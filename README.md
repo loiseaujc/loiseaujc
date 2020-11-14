@@ -8,11 +8,8 @@
 [<img align="left" alt="Jean-Christophe Loiseau | ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/researchgate.svg" />][researchgate]
 [<img align="left" alt="Jean-Christophe Loiseau | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/medium.svg" />][medium]
 
-[github]: https://github.com/loiseaujc/
-[twitter]: https://twitter.com/loiseau_jc/
-[researchgate]: https://www.researchgate.net/profile/Jean_Christophe_Loiseau/
-[linkedin]: https://fr.linkedin.com/in/jean-christophe-loiseau-05832727/
-[medium]: https://loiseau-jc.medium.com/
+<br/>
+<br/>
 
 ### Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
@@ -21,6 +18,14 @@
 - [Improving upon Rosenblatt's perceptron](https://towardsdatascience.com/improving-upon-rosenblatts-perceptron-d0517d3c5939)
 - [Rosenblatt's perceptron, the first modern neural network](https://towardsdatascience.com/rosenblatts-perceptron-the-very-first-neural-network-37a3ec09038a)
 <!-- BLOG-POST-LIST:END -->
+
+
+[github]: https://github.com/loiseaujc/
+[twitter]: https://twitter.com/loiseau_jc/
+[researchgate]: https://www.researchgate.net/profile/Jean_Christophe_Loiseau/
+[linkedin]: https://fr.linkedin.com/in/jean-christophe-loiseau-05832727/
+[medium]: https://loiseau-jc.medium.com/
+
 
 <!--
 **loiseaujc/loiseaujc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
