@@ -4,7 +4,11 @@ WORK IN PROGRESS
 
 ### Research interests
 
-**Keywords :** Scientific computing, Scientific Machine Learning, Dynamical systems, Fluid dynamics, Transition to turbulence.
+**Keywords :** *Scientific computing, Scientific Machine Learning, Dynamical systems, Fluid dynamics, Transition to turbulence*.
+
+The core of my research deals with fluid flows, high-dimensional spatio-temporal systems with strongly nonlinear dynamics.
+In particular, I have been investigating how tools from [Scientific Machine Learning]() can be leveraged to obtain low-dimensional dynamical models of these flows for tasks such as forecasting or control.
+Additionaly, I also use some of these tools to get a better understanding of the so-called laminar-turbulent transition in canonical flows.
 
 #### Scientific Machine Learning, reduced-order modeling and flow control
 
