@@ -6,9 +6,7 @@ WORK IN PROGRESS
 
 **Keywords :** *Scientific computing, Scientific Machine Learning, Dynamical systems, Fluid dynamics, Transition to turbulence*.
 
-The core of my research deals with fluid flows, high-dimensional spatio-temporal systems with strongly nonlinear dynamics.
-In particular, I have been investigating how tools from [Scientific Machine Learning]() can be leveraged to obtain low-dimensional dynamical models of these flows for tasks such as forecasting or control.
-Additionaly, I also use some of these tools to get a better understanding of the so-called laminar-turbulent transition in canonical flows.
+The core of my research deals with fluid flows, high-dimensional spatio-temporal systems with strongly nonlinear dynamics. In particular, I have been investigating how tools from [Scientific Machine Learning]() can be leveraged to obtain low-dimensional dynamical models of these flows for tasks such as forecasting or control. Additionaly, I also use some of these tools to get a better understanding of the so-called laminar-turbulent transition in canonical flows.
 
 #### Scientific Machine Learning, reduced-order modeling and flow control
 
@@ -22,25 +20,35 @@ Additionaly, I also use some of these tools to get a better understanding of the
 
 ### Latest blog posts
 
-**New series on simple disease modeling :** France entered its second coronavirus lock-down late October 2020.
-Numerous of my students asked me how simple mathematical models could help them get a better undertanding of the current mess.
-I decided to write an entire Medium series about it.
+**Data-driven linear modeling :** Data-driven modeling of physical systems is at the heart of my day-to-day research. This series explores some ideas we've been developping over the years with some of my collaborators. It puts a strong emphasis on linear modeling which is of utmost importance and egineering and industrial situations where data is limited.
+
+- [Pixels are not created equal](https://towardsdatascience.com/pixels-are-not-created-equal-b3ae4b36ffbc)
+
+
+
+**Simple disease modeling :** France entered its second coronavirus lock-down late October 2020. Numerous of my students asked me how simple mathematical models could help them get a better undertanding of the current mess. I decided to write an entire Medium series about it.
 
 - [Disease modeling in the midst of a pandemic](https://loiseau-jc.medium.com/disease-modeling-in-the-midst-of-a-pandemic-14e06f3cd63e)
+- [Why social distancing matters](https://loiseau-jc.medium.com/why-social-distancing-matters-1816d80f5c06)
 
-**Basics of statistics and machine learning :** This series covers some basic aspects of statistics and machine learning.
-It is adapted from lecture notes I prepared for a course which eventually did not take place 😞.
-All the posts come with some simple implementation in `python` for readers to play with.
+
+
+**Basics of statistics and machine learning :** This series covers some basic aspects of statistics and machine learning. It is adapted from lecture notes I prepared for a course which eventually did not take place 😞. All the posts come with some simple implementation in `python` for readers to play with.
 
 - [Binary cross-entropy and logistic regression](https://towardsdatascience.com/binary-cross-entropy-and-logistic-regression-bf7098e75559)
+- [Categorical cross-entropy and SoftMax regression](https://towardsdatascience.com/categorical-cross-entropy-and-softmax-regression-780e8a2c5e8c)
 
-**History of deep learning :** This series deals with the infancy of neural networks and deep learning.
-Its aim is primarily to show how we slowly move the simple model of an artificial neuron all the way to recent deep neural networks.
+
+
+**History of deep learning :** This series deals with the infancy of neural networks and deep learning. Its aim is primarily to show how we slowly move the simple model of an artificial neuron all the way to recent deep neural networks.
 
 - [Rosenblatt's perceptron, the first modern neural network](https://towardsdatascience.com/rosenblatts-perceptron-the-very-first-neural-network-37a3ec09038a)
 - [Improving upon Rosenblatt's perceptron](https://towardsdatascience.com/improving-upon-rosenblatts-perceptron-d0517d3c5939)
 
+
+
 ---
+
 
 <p align="center">
     <a href="https://fr.linkedin.com/in/jean-christophe-loiseau-05832727/"><img alt="Jean-Christophe Loiseau | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
