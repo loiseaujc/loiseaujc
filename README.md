@@ -1,16 +1,17 @@
-### Hi there, I'm Jean-Christophe 👋
-
-WORK IN PROGRESS
-
 ### Research interests
 
 **Keywords :** *Scientific computing, Scientific Machine Learning, Dynamical systems, Fluid dynamics, Transition to turbulence*.
 
 The core of my research deals with fluid flows, high-dimensional spatio-temporal systems with strongly nonlinear dynamics. In particular, I have been investigating how tools from [Scientific Machine Learning]() can be leveraged to obtain low-dimensional dynamical models of these flows for tasks such as forecasting or control. Additionaly, I also use some of these tools to get a better understanding of the so-called laminar-turbulent transition in canonical flows.
 
+#### Transition to turbulence
+
+Transition to turbulence is one of the most important unsolved problem in fluid dynamics. From an engineering point of view, turbulence may be beneficial (e.g. in mixing problems) or detrimental (e.g. in aerodynamics applications). In either case, a better understanding of the physical mechanisms causing the flow to transition to turbulence is needed. This increased understanding may then be used to try to promote or delay transition. In this context, part of my research is dedicated to understanding these mechanisms and predicting the onset of turbulence by using tools from dynamical system theory. In particular, we develop large-scale Newton-Krylov and eigenvalue solvers to perform stability analyses of fully three-dimensional flow configurations. This work has recently culminated in the development of **nekStab**, a user-friendly toolbox for the spectral element solver Nek5000. This toolbox will be released as open-source very shortly.
+
+
 #### Scientific Machine Learning, reduced-order modeling and flow control
 
-#### Transition to turbulence
+Although stability analyses might provide valuable insights into the physics of the flow, it does not necessarily leads to simple models that could be used for real-time control or estimation. Moreover, if one only has access to experimental facilities, such stability analyses are not possible. In order to accomodate for these limitations, one can instead shift from first principles to a data-driven paradigm. In this context, most of my research is dedicated to the development and perfection of innovative data-driven techniques. In particular, close attention is being paid to the data efficiency and robustness of the methods proprosed. Another crucial aspect of my work, in collaboration with Steven Brunton from the University of Washington (Seattle, USA) is the development of interpretable system identification techniques such as SINDy. In addition to the interpretability, we also emphasize the importance of being able to incorporate prior physical knowledge in the modeling procedure, often leading to even more interpretable and robust models.
 
 #### Relevent publications
 
@@ -22,6 +23,9 @@ The core of my research deals with fluid flows, high-dimensional spatio-temporal
 
 **Data-driven linear modeling :** Data-driven modeling of physical systems is at the heart of my day-to-day research. This series explores some ideas we've been developping over the years with some of my collaborators. It puts a strong emphasis on linear modeling which is of utmost importance and egineering and industrial situations where data is limited.
 
+- [A case against PCA for time-series analysis](https://towardsdatascience.com/a-case-against-pca-for-time-series-analysis-ac66b47629e0)
+- [How to reconstruct an image if you see only a few pixels](https://towardsdatascience.com/how-to-reconstruct-an-image-if-you-see-only-a-few-pixels-e3899d038bf9)
+- [Not all pixels matter for classification](https://towardsdatascience.com/not-all-pixels-matter-for-classification-b8d8f0f198d3)
 - [Pixels are not created equal](https://towardsdatascience.com/pixels-are-not-created-equal-b3ae4b36ffbc)
 
 
