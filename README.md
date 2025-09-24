@@ -1,7 +1,5 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=loiseaujc&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loiseaujc&hide=Jupyter%20Notebook,Javascript&theme=tokyonight)
-
 <!-- ### Research interests -->
 <!---->
 <!-- **Keywords :** *Scientific computing, Scientific Machine Learning, Dynamical systems, Fluid dynamics, Transition to turbulence*. -->
